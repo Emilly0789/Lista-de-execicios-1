@@ -6,7 +6,7 @@ public class Tarefa2 {
 
         int n;
         do {
-            System.out.print("Digite um número inteiro positivo: ");
+            System.out.printf("Digite um número inteiro positivo: ");
             n = scanner.nextInt();
         }
         while (n<2);
